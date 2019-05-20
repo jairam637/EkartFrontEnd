@@ -1,0 +1,9 @@
+.line{
+    width: 100%;
+    height: 2px;
+    background: red;
+    margin: 5px 0;
+}
+.cart-div{
+    margin: 10px auto;
+}

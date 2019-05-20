@@ -1,0 +1,17 @@
+.logo-img{
+    height: 65px;
+}
+.MuiAppBar-colorPrimary-716{
+    color: white!important;
+}
+.card-buttons{
+    display: flex;
+    justify-content: space-around;
+}
+.card-buttons button{
+    background: aliceblue;
+    /* color: white; */
+}
+.logo-button{
+    padding: 0!important;
+}
