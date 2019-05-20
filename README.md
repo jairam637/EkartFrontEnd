@@ -1,4 +1,4 @@
-Download and install the Node.js 
-    * cd ../frontend/
-    * npm install
-    * npm start
+1. Download and install the Node.js 
+2. cd ../frontend/
+3. npm install
+4. npm start
